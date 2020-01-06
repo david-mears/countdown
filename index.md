@@ -1,6 +1,6 @@
 <h1>DAYS UNTIL CHRISTMAS</h1>
 
-<h1 id="countdown">Something went wrong</h1>
+<h1 id="countdown" style="font-size:8vw;">Something went wrong</h1>
 
 <script>
     // var daysRemaining = "4"
@@ -19,7 +19,7 @@
     var days = Math.floor(distance / (1000 * 60 * 60 * 24));
 
     // Display the result in the element with id="demo"
-    document.getElementById("countdown").innerHTML = days + " days";
+    document.getElementById("countdown").innerHTML = days;
 
     // If the count down is finished, write some text
     if (distance < 0) {
