@@ -1,9 +1,12 @@
 # Test site
 
+<h2>
+Days until X:
+</h2>
 <h2 id="countdown">
-Days until X: Unsure
+Unsure
 </h2>
 
 <script>
-document.getElementById("countdown").innerHTML = "Text added by JavaScript code";
+document.getElementById("countdown").innerHTML = "4";
 </script>
