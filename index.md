@@ -1,8 +1,6 @@
-# Test site
+<h1>Days until X</h1>
 
-<h2>
-Days until X: <span id="countdown">Unsure</span>
-</h2>
+<h2 id="countdown">Unsure</h2>
 
 <script>
 document.getElementById("countdown").innerHTML = "4";
