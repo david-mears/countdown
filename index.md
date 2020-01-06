@@ -1,10 +1,7 @@
 # Test site
 
 <h2>
-Days until X:
-</h2>
-<h2 id="countdown">
-Unsure
+Days until X: <span id="countdown">Unsure</span>
 </h2>
 
 <script>
