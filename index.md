@@ -1,4 +1,4 @@
-<div style="text-align:center;">
+<div style="text-align:center;height:80%">
     <h1>DAYS UNTIL CHRISTMAS</h1>
     <p id="countdown" style="font-size:8vw;">Something went wrong</p>
 </div>
@@ -6,7 +6,6 @@
 <script>
     // Set the date we're counting down to
     var countDownDate = new Date("December 25, 2020 00:00:00").getTime();
-
 
     var now = new Date().getTime();
 
