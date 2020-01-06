@@ -1,6 +1,6 @@
 <div style="text-align:center;height:80%">
     <h1>DAYS UNTIL CHRISTMAS</h1>
-    <p id="countdown" style="font-size:8vw;">Something went wrong</p>
+    <p id="countdown" style="font-size:8vw;margin-top:45%">Something went wrong</p>
 </div>
 
 <script>
