@@ -1,11 +1,9 @@
-<h1>DAYS UNTIL CHRISTMAS</h1>
-
-<h1 id="countdown" style="font-size:8vw;">Something went wrong</h1>
+<div style="text-align:center;">
+    <h1>DAYS UNTIL CHRISTMAS</h1>
+    <p id="countdown" style="font-size:8vw;">Something went wrong</p>
+</div>
 
 <script>
-    // var daysRemaining = "4"
-    // document.getElementById("countdown").innerHTML = daysRemaining;
-
     // Set the date we're counting down to
     var countDownDate = new Date("December 25, 2020 00:00:00").getTime();
 
