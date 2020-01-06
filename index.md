@@ -5,5 +5,5 @@ Days until X: Unsure
 </h2>
 
 <script>
-document.getElementById("text").innerHTML = "Text added by JavaScript code";
+document.getElementById("countdown").innerHTML = "Text added by JavaScript code";
 </script>
