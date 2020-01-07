@@ -1,7 +1,7 @@
 <div style="text-align:center;height:80%">
     <h1>DAYS UNTIL CHRISTMAS</h1>
     <p id="countdown" style="font-size:8vw;">Something went wrong</p>
-    <p id="timezoneTest>Test whether GitHub Pages datetime is attached to UK or US</p>
+    <p id="timezoneTest">Test whether GitHub Pages datetime is attached to UK or US</p>
 </div>
 
 <script>
