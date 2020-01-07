@@ -1,13 +1,9 @@
 <div style="text-align:center;height:80%">
     <h1>DAYS UNTIL CHRISTMAS</h1>
     <p id="countdown" style="font-size:8vw;">Something went wrong</p>
-    <p id="timezoneTest">Test whether GitHub Pages datetime is attached to UK or US</p>
 </div>
 
 <script>
-    // Test whether GitHub Pages datetime is attached to UK or US
-    document.getElementById("timezoneTest").innerHTML = new Date()
-    
     // Set the date we're counting down to
     var countDownDate = new Date("December 25, 2020 00:00:00").getTime();
 
